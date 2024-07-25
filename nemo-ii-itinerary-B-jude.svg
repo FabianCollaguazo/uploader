@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="565"
+   height="424"
+   enable-background="new 0 0 565 424"
+   version="1.1"
+   xml:space="preserve"
+   sodipodi:docname="nemo-ii-itinerary-B.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+ <style type="text/css">
+    .bg0{fill:#215793;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10}
+	.bg1{fill:#1d3259;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10}
+	.bg2{fill:#ffffff;stroke:#e45426;stroke-width:0.911623}
+    .bg3{fill:#1d3259;stroke:#e45426;stroke-width:0.759686}
+	.ff1{font-family:'Verdana'}
+	.fw1{font-weight:600}
+	.fs50{font-size:5px}	
+	.fs60{font-size:6px}	
+	.fs65{font-size:6.5px}	
+	.fs70{font-size:7px}	
+	.fs75{font-size:7.5px}	
+	.fs80{font-size:8px}
+	.fs90{font-size:9px}
+	.fs120{font-size:12px}	
+	.fs140{font-size:14px}
+	.fs160{font-size:16px}
+	.fs200{font-size:20px}
+	.blue{fill:#1d3259}
+	.red{fill:red}
+	.white{fill:#ffffff}
+	.gray{fill:#6d6e72}
+	.path1{fill:none;stroke:#00A7CE;stroke-miterlimit:10;stroke-dasharray: 2000;
+		stroke-dashoffset:0;
+		-webkit-animation: dash 15s linear forwards infinite;
+		-o-animation:dash 15s linear forwards infinite;
+		-moz-animation: dash 10s linear forwards infinite;
+		animation: dash 15s linear forwards infinite;
+	}
+	@-webkit-keyframes dash{
+		from{
+			stroke-dashoffset:2000;
+		}
+		to{
+			stroke-dashoffset:0;
+		}
+	}
+</style>
+ <g transform="translate(0,-22)">
+  <title>Nemo II South Itinerary B</title>
+  <g>
+   <path d="M 21.017005,54.370818 H 235.45658 V 23 H 21.017005 Z" style="fill:#73a2d3" />
+   <path d="M 7.9550945,54.370818 H 218.06229 V 23 H 7.9550945 Z" style="fill:#467aaf" />
+   <path d="M 0.17641548,54.370818 H 197.69111 V 23 H 0.17641548 Z" style="fill:#215793" />
+   <text transform="matrix(0.7534559,0,0,0.75310835,5.0216645,45.392933)" style="font-weight:500;font-size:25px;font-family:'Verdana';fill:#ffffff">SOUTH ITINERARY</text>
+   <text transform="matrix(0.7534559,0,0,0.75310835,5.7115521,444.91678)" style="font-style:italic;font-size:26px;font-weight:500;font-family:'Verdana';fill:#c5c5c7">PACIFIC OCEAN</text>
+   <path d="M 176.36765,448.99124 H 529.54332 V 434.74809 H 176.36765 Z" style="fill:#73a2d3"/>
+   <path d="M 284.38611,448.99124 H 551.83582 V 434.74809 H 284.38611 Z" style="fill:#467aaf" />
+   <path d="M 415.15365,448.99124 H 565.11247 V 434.74809 H 415.15365 Z" style="fill:#215793" />
+   <polygon class="bg0" points="72.4,163.7 65.8,154.1 79.4,147.6 87.4,134.5 101.1,131.4 113.4,121.8 120,126.6 127.1,143.7    140.8,156.8 143.9,163.7 143.9,183 146.1,194.8 158.9,206.6 161.5,208.7 158.9,211.8 175.2,220.5 190.6,237.1 190.6,256.4    184.5,262.5 190.6,262.5 188.9,266.8 193.3,271.7 201.2,269 211.4,283.9 219.3,293.5 223.7,295.7 220.2,302.7 214,303.5    210.1,318.8 210.9,327.6 201.7,328.9 199.5,334.1 191.1,337.6 181.8,335 177,340.7 146.5,352.5 138.1,352.5 135.5,349 123.1,346.8    107.2,347.7 95.3,342.4 93.1,333.2 85.6,331.1 81.6,325.4 86.1,314.5 116.9,288.7 118.3,283.4 131.9,283.9 137.2,279.5    147.4,282.1 165,272.5 165.5,265.1 146.1,249.8 136.8,241.1 136.8,229.7 122.2,219.2 114.7,215.7 109,203.9 106.4,203.5    104.6,193.5 107.2,191.3 101.9,182.5 102.8,163.7 97.5,156.3 88.3,156.3 81.6,161.1 76.8,161.1  "/>
+   <polygon class="bg0" points="62.4,246.6 71.7,246.6 80.1,250.1 96.8,248.4 104.3,241.4 103,236.2 106.1,229.2 106.1,220.9    100.4,211.3 91.1,204.3 84,204.3 80.5,208.6 74.3,209.5 68.1,211.7 55.8,211.3 51.4,212.6 51.4,217.8 54,221.3 54,231.8  "/>
+   <polygon class="bg0" points="212.7,216.2 218.4,217 221.1,214.9 228.2,220.1 233.4,221.4 240.1,221.4 244.9,219.7 252,223.6    257.3,225.8 262.6,222.3 263.9,216.2 267.4,214.9 268.7,212.2 264.3,208.3 262.1,199.6 249.3,191.3 242.3,189.1 239.6,189.1    235.7,185.6 230.8,185.6 227.3,180.8 218.4,180.8 212.7,186.9 214,192.6 209.2,198.7 205.6,199.1 205.6,204.8 211.4,205.7    212.3,210.1  "/>
+   <polygon class="bg0" points="423.2,403.5 428.1,400 437.8,398.7 443.9,402.6 446.6,407 444.8,410.9 439.5,409.6 435.6,410.9    432,408.3 426.3,407  "/>
+   <path class="bg0" d="m271.4,286.5c0,0 11,4.4 11.9,4.8c0.9,0.4 4.9,3.9 4.9,3.9l7.5,3.9l9.7,0.9l4.9,-2.2l4.4,0.9l0,-4.4l11,0.9l4,-2.2l1.3,-6.6l4,0l4.4,-7l-2.2,-3.5l2.2,-4.8l0,-4.4l1.8,-5.2l-11.9,-7.9l-3.5,-8.3l-14.1,1.7l-8.4,0l1.3,3.5l-11.5,-1.7l-14.6,4.4l-8.4,7.9l-1.3,11.4l2.6,14z"/>
+   <polygon class="bg0" points="446.1,328 464.7,335.9 472.6,331.9 483.2,330.2 490.3,328 495.6,317.1 498.2,309.2 505.7,307.9    517.2,294.8 520.3,290.4 516.3,284.8 512.8,286.9 502.6,284.8 497.3,283 496,287.4 481.5,293.9 475.7,305.7 472.2,309.2    466.4,309.2 461.6,307.9 462,312.7 459.4,315.3 451.4,320.6 446.1,324.1  "/>
+   <polygon class="bg0" points="289.5,401.8 297.9,397 301,391.7 304.5,389.1 305.4,383 293.5,376.9 290.4,374.2 285.5,377.7    281.1,376 278.9,384.7 276.3,390 274.9,393.9 278,397 282.4,400  "/>
+   <polygon class="bg0" points="360.6,95.3 361.5,93.4 364.7,93.4 365,96.3 363.3,96.9 365,99 367.4,97.1 369,93.4 368.5,88.6    363.6,85.9 360.9,87.5 357.7,87 357.1,93.4 357.7,95  "/>
+   <polygon class="bg0" points="237.8,236.6 240,234.9 240.5,232.2 238.9,230.6 237.2,229.5 236.1,229.5 236.1,231.7 235,232.8    234.5,234.9 235.6,236.6  "/>
+   <polygon class="bg0" points="356.1,310.5 359.2,310.5 363.2,312.7 365.8,312.7 367.6,312.7 368.5,310.5 368,309.2 368.5,307.9    366.3,305.7 357.9,305.3 356.1,305.3 356.6,306.6 358.3,307 357.4,308.8 355.7,308.8  "/>
+   <polyline class="bg0" points="317.6,239.9 322.9,239.9 326.5,237.1 320.8,225.4 317.6,227.4 319.2,233.4 317.6,236.2 317.6,239.1     "/>
+   <path class="bg0" d="m243.9,263.4c-0.6,0 -4.1,2.3 -4.1,2.3l0,4l1.2,2.3l2.9,0.6l1.2,2.3l2.9,-1.1l2.9,-1.1l0.6,-3.4l-2.9,-3.4l-2.3,-2.3l-2.4,0l0,-0.2z"/>
+   <path class="bg0" d="m269.6,94.3l6.2,2.2l4,4.4l2.6,0.4c1.63,-0.57 3.27,-1.13 4.9,-1.7l5.7,-1.7l3.1,-3.5c0,0 0.9,-3.5 0.9,-3.1s-7.5,-7 -7.5,-7l-1.8,-0.4l-1.8,-3.1l-8.4,-0.9l-6.2,3.5l-2.6,3.5l0.9,7.4z"/>
+   <path class="bg0" d="m 350.96858,258.49387 c 0.046,-0.60276 -1.39314,-0.20042 -2.3764,-0.46488 -0.98401,-0.26522 -1.72391,1.36903 -1.57246,1.65911 0.15069,0.29083 1.01641,1.14902 1.79247,1.08045 0.7738,-0.0693 1.00436,0.0256 1.22587,-0.19137 0.40762,-0.39934 0.90641,-1.76912 0.93052,-2.08331"/>  
+   <path class="bg0" transform="matrix(0.7534559,0,0,-0.7534559,464.21115,294.12444)" d="m 0,0 c -0.878,-0.303 0.567,-2.088 0.794,-3.638 0.227,-1.549 2.984,-1.594 3.303,-1.205 0.318,0.391 0.999,2.139 0.429,3.188 -0.57,1.051 -0.577,1.433 -1.019,1.614 C 2.695,0.291 0.457,0.159 0,0"/>
+   <path class="bg0" transform="matrix(0.7534559,0,0,-0.7534559,440.66401,396.65393)" d="M 0,0 C -0.191,-0.934 2.137,-0.588 3.622,-1.197 5.107,-1.807 6.586,0.601 6.409,1.085 6.231,1.569 5.044,3.082 3.821,3.13 2.597,3.174 2.255,3.367 1.867,3.07 1.15,2.527 0.101,0.485 0,0"/>  
+   <path class="bg0" d="m 302.96366,376.26052 c -0.55041,0.18996 0.35543,1.30899 0.49776,2.28065 0.14229,0.97106 1.87064,0.99927 2.07062,0.75543 0.19934,-0.24512 0.62628,-1.34096 0.26895,-1.99854 -0.35734,-0.65886 -0.36173,-0.89833 -0.63881,-1.01183 -0.50906,-0.2081 -1.91205,-0.12536 -2.19852,-0.0259" />
+   <g transform="translate(-159.71526,74.603839)">
+    <g transform="translate(1.5761374,16.286754)">
+     <path class="path1" d="m 478.94588,146.42927 c 6.47837,-6.99539 5.06699,-15.42528 0.78311,-24.37744 13.08229,1.7442 40.75296,15.57151 64.56017,37.8019 27.45942,25.64069 50.63191,60.75481 54.28972,73.52487 0,0 26.81433,-41.39945 17.69114,-34.42919 0,0 24.22935,-3.9762 37.35325,-5.94816 11.2544,-1.69105 -182.54859,91.20038 -186.40832,92.62565 0,0 -17.86515,-9.70318 -16.8277,-6.66871 L 434.90798,286.3 c 4.91288,-0.91416 8.04878,-7.1196 14.20237,-9.19966 -0.41852,0.7701 32.59236,-5.76162 82.16138,4.47404 13.75681,2.84069 35.4468,12.69388 53.71495,19.94612 22.353,8.87389 35.94375,20.15515 25.05366,15.36636 -0.13879,2.15943 -8.35766,-16.27279 -8.35766,-16.27279 -1.50009,-0.52636 -10.8959,4.36568 -22.94812,11.43243 -5.55032,3.2544 -125.48221,-126.27771 -105.40866,-105.26162 8.04488,8.42262 18.21982,-2.76432 23.79763,-14.16005 8.02396,-16.39336 10.08402,-36.76833 12.55337,-29.76907 3.24854,9.20783 7.4155,35.65497 11.04106,47.74615 7.99399,-41.73047 10.73935,-66.23517 8.2404,-82.34883 -2.73907,-17.66202 -16.33263,-26.01145 -36.22909,-28.19745 -21.83582,-2.39907 -55.48357,15.85014 -58.85843,13.67047 l -5.89603,12.4264 -8.22755,5.67786 c 19.09172,6.33907 36.42064,2.07495 36.40605,4.99218"
+     style="-moz-animation:dash 10s linear forwards infinite;-o-animation:dash 15s linear forwards infinite;-webkit-animation:dash 15s linear forwards infinite" sodipodi:nodetypes="ccsccsccccsscssssscsscccc"/>
+     <path d="M 0,0 C -0.651,-0.471 0.99,-1.583 1.565,-2.806 2.14,-4.03 4.429,-3.378 4.595,-2.978 4.76,-2.575 4.885,-0.96 4.153,-0.235 3.418,0.49 3.316,0.805 2.907,0.842 2.154,0.914 0.338,0.245 0,0" class="bg0" transform="matrix(0.79351933,0,0,-0.79356073,427.89214,114.01302)"/>
+     <path d="m 0,0 c 0.036,0.458 -1.055,0.151 -1.801,0.353 -0.745,0.201 -1.307,-1.038 -1.193,-1.259 0.115,-0.219 0.772,-0.87 1.359,-0.819 0.587,0.054 0.762,-0.019 0.93,0.146 C -0.396,-1.276 -0.018,-0.239 0,0" class="bg0" transform="matrix(0.79351933,0,0,-0.79356073,428.50924,115.71751)"/>
+     <path d="m 0,0 c -1.14,0.27 -0.8,-2.604 -1.602,-4.408 -0.801,-1.803 2.103,-3.707 2.704,-3.506 0.601,0.201 2.504,1.603 2.603,3.106 0.1,1.503 0.35,1.914 0,2.405 C 3.065,-1.506 0.593,-0.14 0,0" class="bg0" transform="matrix(0.78411563,0,0,-0.78411563,457.16563,137.54686)"/>
+     <path d="m 0,0 c -0.173,0.143 -0.121,-1.387 -0.243,-2.348 -0.121,-0.96 0.32,-1.974 0.41,-1.866 0.093,0.107 0.383,0.854 0.396,1.654 0.016,0.799 0.055,1.019 0,1.28 C 0.466,-0.802 0.091,-0.074 0,0" class="bg0" transform="matrix(0.78411563,0,0,-0.78411563,480.10294,131.54914)"/>
+     <path d="M 0,0 C -0.234,-1.147 2.627,-0.723 4.453,-1.472 6.278,-2.221 8.096,0.739 7.878,1.334 7.658,1.929 6.201,3.789 4.696,3.847 3.191,3.902 2.773,4.138 2.294,3.775 1.416,3.109 0.122,0.598 0,0" class="bg0" transform="matrix(0.78411563,0,0,-0.78411563,474.80799,129.88575)"/>
+     <path d="m 448.0019,146.991 c 0,0 1.42395,-2.61793 2.14109,-2.19929 0.72183,0.41677 -0.84198,3.0056 -0.84198,3.0056 l 1.64266,4.59945 -0.35951,0.93303 -2.22932,-4.00621 -1.94679,2.76905 0.32478,1.62389 -0.16051,0.34073 -1.14705,-1.08885 -1.56005,-0.48059 0.2187,-0.3107 1.66425,-0.46839 1.34698,-3.1173 -4.47648,-0.16145 0.5219,-0.55944 z" class="blue"/>	 
+    </g>
+   </g>
+   
+   <circle class="bg3" cx="321.63153" cy="236.76401" r="4.6201568"/>
+   <g><text class="ff1 fs75 fw1 white" transform="matrix(1.0102 0 0 1 318.8874271 239.12924)">1</text></g> 
+   <circle class="bg2" cx="321.117" cy="212.26683" r="5.5441885"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,317.857534,214.650075)">1</text></g> 
+   <circle class="bg2" cx="443.18097" cy="325.585884" r="5.5441885"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102 0 0 1 440 328.5669)">2</text></g>
+   <circle class="bg2" cx="460.18097" cy="290.585884" r="5.5441885"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102 0 0 1 457.3 293.5669)">2</text></g>
+   <circle class="bg2" cx="496.12729" cy="282.46121" r="5.5441885"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,493.246295,285.4422364)">2</text></g>
+   <circle class="bg2" cx="309.379" cy="374.38202" r="4.6201568"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,306.670245,376.90026)">3</text></g>
+   <circle class="bg2" cx="291.46658" cy="369.54413" r="4.6201568"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,288.757832,372.06239)">3</text></g>
+   <circle class="bg2" cx="276.63055" cy="377.38809" r="4.6201568"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,273.921793,379.90635)">3</text></g> 
+   <circle class="bg2" cx="452.38467" cy="407.64038" r="5.5441885"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,448.67606,410.52409)">4</text></g> 
+   <circle class="bg2" cx="443.96603" cy="389.21652" r="5.5441885"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,440.25739,392.10017)">4</text></g>
+   <circle class="bg2" cx="419.13525" cy="403.16998" r="5.5441885"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,415.4265,406.05365)">4</text></g> 
+   <circle class="bg2" cx="314.06158" cy="296.92664" r="5.5441885"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,310.80813,299.81034)">5</text></g> 
+   <circle class="bg2" cx="281.61911" cy="270.25464" r="5.5441885"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,278.37012,272.920865)">5</text></g> 
+   <circle class="bg2" cx="351.52319" cy="252.9541" r="5.5441885"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,348.2741,255.620317)">6</text></g> 
+   <circle class="bg2" cx="363.96768" cy="301.284" r="5.5441885"/>  
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,360.718687,303.95022)">6</text></g> 
+   <circle class="bg2" cx="274.7442" cy="200.00754" r="5.5441885"/>
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,271.9043991,203.2083136)">7</text></g> 
+   <circle class="bg2" cx="259.23297" cy="222.7675" r="5.5441885"/>  
+   <g><text class="ff1 fs80 fw1 blue" transform="matrix(1.0102,0,0,1,256.44003,226.345864)">7</text></g> 
+   <circle class="bg3" cx="300.04672" cy="225.80043" r="4.6201568"/>
+   <g><text class="ff1 fs75 fw1 white" transform="matrix(1.0102,0,0,1,297.3026268,228.165652)">8</text></g> 
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,458.88963,410.93446)">Osborn Islet</text></g>      
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,449.83513,391.88074)">Gardner Island</text></g>      
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,422.0164,381.70056)">Gardner Bay</text></g>      
+   <g><text class="ff1 fs140 gray" transform="matrix(1.0102,0,0,1,203.2693916,176.964236)">Santiago</text></g>      
+   <g><text class="ff1 fs140 gray" transform="matrix(1.0102 0 0 1 256.4842 413.2605)">Floreana</text></g>
+   <g><text class="ff1 fs200 gray" transform="matrix(1.0102 0 0 1 498 330.0603)">San<tspan class="ff1 fs200 gray" x="-25" y="20">Cristobal</tspan></text></g>
+   <g><text class="ff1 fs200 gray" transform="matrix(1.0102 0 0 1 105.0077  385.0115)">Isabela</text></g>
+   <g><text class="ff1 fs140 gray" transform="matrix(1.0102 0 0 1 345.1063 82.325)">Genovesa</text></g>
+   <g><text class="ff1 fs140 gray" transform="matrix(1.0102 0 0 1 40 263)">Fernandina</text></g>
+   <g><text class="ff1 fs140 gray" transform="matrix(1.0102,0,0,1,414.385277,427.469697)">Espanola</text></g>
+   <g><text class="ff1 fs75 gray" transform="matrix(1.0102,0,0,1,205.5138074,227.883984)">Chinese Hat</text></g>	
+   <g><text class="ff1 fs75 blue" transform="matrix(1.0102,0,0,1,293.752373,242.3816652)">Baltra</text></g>	
+   <g><text class="ff1 fs140 gray" transform="matrix(1.0102,0,0,1,264.923362,310.97817)">Santa<tspan class="ff1 fs140 gray" x="4" y="12">Cruz</tspan></text></g>
+   <g><text class="ff1 fs60 white" transform="matrix(1.0102 0 0 1 290.1063 273.325)">Highlands</text></g>   
+   <g><text class="ff1 fs60 white" transform="matrix(1.0102 0 0 1 288.080305 283.4447797)">Charles Darwin<tspan class="ff1 fs60 white" x="0" y="7">Station</tspan></text></g>
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102 0 0 1 440 273)">Kicker<tspan class="ff1 fs80 gray" x="2" y="9">Rock</tspan></text></g>
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,480.927697,273.865403)">Brujo Hill</text></g>
+   <g><text class="ff1 fs75 gray" transform="matrix(1.0102,0,0,1,327.94442,205.106931)">North<tspan class="ff1 fs75 gray" x="0" y="8">Seymour</tspan></text></g>
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,279.94442,219.106931)">Daphne</text></g>
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,259.09252,192.7375887)">Bartolome</text></g>
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,370.5922411,305.8905554)">Santa Fe</text></g>
+   <g><text class="ff1 fs75 gray" transform="matrix(1.0102,0,0,1,335.4066321,237.5894077)">South<tspan class="ff1 fs75 gray" x="2" y="8">Plaza</tspan></text></g>
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,384.00,407.39901)">Suarez<tspan class="ff1 fs80 gray" x="5" y="9">Point</tspan></text></g>
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,226.00,380.39901)">Post Office<tspan class="ff1 fs80 gray" x="14" y="9">Bay</tspan></text></g>
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,258.87558,353.19901)">Cormorant Point<tspan class="ff1 fs80 gray" x="-8" y="9">Baroness View Point</tspan></text></g>
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,306.84138,386.199452)">Champion Islet</text></g>
+   <g><text class="ff1 fs80 gray" transform="matrix(1.0102,0,0,1,433.4593877,342.0781206)">Lobos<tspan class="ff1 fs80 gray" x="0" y="9">Islands</tspan></text></g>         
+ 
+  </g>
+ </g>
+ </svg>
